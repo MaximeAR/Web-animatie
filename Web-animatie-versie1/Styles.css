@@ -1,0 +1,118 @@
+/*algemeen*/
+
+body {
+    background-color: #F0E9DE;
+}
+
+svg { 
+    width: 50%;
+    margin-left: 33em;
+    margin-top: -1em;
+}
+
+
+/*-----------------------------*/
+
+svg #Knopje :first-child:hover {
+    fill: #EA5235;
+}
+
+/*-----------------------------*/
+
+#Vis {
+    animation-name: spring;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes spring {
+    from { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+    to { transform: rotate(0px); }
+}
+
+/*-----------------------------*/
+
+#Klok {
+	animation-name: linksrechts;
+	animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes linksrechts {
+  from { transform: translateX(0px); }
+    65%  { transform: translateX(-150px); }
+    to   { transform: translateX(0px); }    
+}
+
+/*-----------------------------*/
+
+
+#Tekst {
+	animation:tekst ease-in 1s;
+	animation-duration: 2s;
+}
+
+@keyframes tekst {
+	0% { 
+		transform: scaleY(0)
+	}
+	85% { 
+		transform: scaleY(1)
+	}
+	
+}
+/*-----------------------------*/
+
+
+#_Group_1 {
+	opacity:0; 
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+}
+
+#_Group_2 {
+	opacity:0; 
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:4s;
+}
+
+#_Group_3 {
+	opacity:0; 
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 0.7s;
+} 
+
+#_Group_4 {
+	opacity:0; 
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 0.7s;
+}
+
+#_Group_5 {
+	opacity:0; 
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 1.4s;
+}
+
+#_Group_6 {
+	opacity:0; 
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+}
+
+@keyframes verschijnen { 
+	from { opacity:0; } 
+	to { opacity:1; } 
+}
