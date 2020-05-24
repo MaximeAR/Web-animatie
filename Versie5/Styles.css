@@ -1,0 +1,342 @@
+/*algemeen*/
+
+#body {
+    background-color: #F0E9DE;
+    Display: block;
+    Justify-content: center;
+    Align-items: center;
+}
+
+#body.invert {
+    filter: invert(100%);
+    background-color: #0f1620;
+    Display: block;
+    Justify-content: center;
+    Align-items: center;
+}
+
+svg {
+    background-color: #F0E9DE;
+    max-width: 100vw;
+    max-height: 95vh;
+}
+
+
+/*-----------------------------*/
+
+#Knopje :hover {
+    fill: #EA5235;
+}
+
+#Knopje :hover {
+    fill: #EA5235;
+}
+/*-----------------------------*/
+
+#Witte_blok_1 {
+    fill: #e3ba69;
+}
+
+#Witte_blok_2 {
+    fill: #e3ba69;
+}
+
+#Witte_blok_3 {
+    fill: #e3ba69;
+}
+
+
+#Witte_blok_1 :hover {
+    fill: #FFFFFF;
+}
+
+#Witte_blok_2 :hover {
+    fill: #FFFFFF;
+}
+#Witte_blok_3 :hover {
+    fill: #FFFFFF;
+}
+
+
+/*-----------------------------*/
+
+#Vis {
+    animation-name: swim;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes swim {
+    from { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+    to { transform: translateY(0px); }
+}
+
+#Vis:hover {
+    animation: rotate 1s infinite;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+/*-----------------------------*/
+
+#Klok {
+	animation-name: linksrechts;
+	animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes linksrechts {
+  from { transform: translateX(0px); }
+    50%  { transform: translateX(-150px); }
+    to   { transform: translateX(0px); }    
+}
+
+#Klok:hover {
+    animation: rotate 3s infinite;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+/*-----------------------------*/
+
+
+#Tekst {
+	animation:tekst ease-in 1s;
+	animation-duration: 2s;
+}
+
+@keyframes tekst {
+	0% { 
+		transform: scaleY(0)
+	}
+	85% { 
+		transform: scaleY(1)
+	}
+	
+}
+/*-----------------------------*/
+
+
+#_Group_1 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+}
+
+#_Group_1.Bewegen1 {
+    opacity: 1;
+    transform: translateX(435px) translateY(-375px);
+    transition: transform 1s ease;
+}
+
+#_Group_2 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:4s;
+}
+
+#_Group_2.Bewegen2 {
+    opacity: 1;
+    transform: translateX(-45px) translateY(-430px);
+    transition: transform 1s ease;
+}
+
+#_Group_3 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 0.7s;
+} 
+
+#_Group_3.Bewegen3 {
+    opacity: 1;
+    transform: translateX(355px) translateY(-570px);
+    transition: transform 1s ease;
+}
+
+#_Group_4 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 0.7s;
+}
+
+#_Group_4.Bewegen4 {
+    opacity: 1;
+    transform: translateX(20px) translateY(-670px);
+    transition: transform 1s ease;
+}
+
+#_Group_5 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 1.4s;
+}
+
+#_Group_5.Bewegen5 {
+    opacity: 1;
+    transform: translateX(242px) translateY(-88px);
+    transition: transform 1s ease;
+}
+
+#_Group_6 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+}
+
+#_Group_6.Bewegen6 {
+    opacity: 1;
+    transform: translateX(-20px) translateY(-215px);
+    transition: transform 1s ease;
+}
+
+
+@keyframes verschijnen { 
+	from { opacity:0; } 
+	to { opacity:1; } 
+}
+
+/*------------oefen dingen-------------*/
+
+
+#Boot {
+    transform: translateX(-25px) translateY(0px);
+    transition: transform 3s ease;
+}
+
+#Boot.move {
+    transform: translateX(360px) translateY(0px);
+    transition: transform 3s ease;
+}
+
+/*----------------------*/
+
+
+#nummer3 {
+    transform: translateX(0px) translateY(0px);
+    transition: 2s;
+}
+
+#nummer3.out {
+    transform: translateX(30px) translateY(0px);
+    transition: 2s;
+}
+
+#nummer6 {
+    transform: translateX(0px) translateY(0px);
+    transition: 2s;
+}
+
+#nummer6.out {
+    transform: translateX(0px) translateY(30px);
+    transition: 2s;
+}
+
+#nummer9 {
+    transform: translateX(0px) translateY(0px);
+    transition: 2s;
+}
+
+#nummer9.out {
+    transform: translateX(-30px) translateY(0px);
+    transition: 2s;
+}
+
+
+
+/*----------------------*/
+
+#Witte_blok_1 {
+    transform: translateX(0px) translateY(0px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_1.links {
+    transform: translateX(-23.7px) translateY(0px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_1.onder {
+    transform: translateX(0px) translateY(23.7px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_1.boven {
+    transform: translateX(0px) translateY(-23.7px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_2 {
+    transform: translateX(0px) translateY(0px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_2.links {
+    transform: translateX(-23.7px) translateY(0px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_2.onder {
+    transform: translateX(0px) translateY(23.7px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_2.boven {
+    transform: translateX(0px) translateY(-23.7px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_3 {
+    transform: translateX(0px) translateY(0px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_3.links {
+    transform: translateX(-23.7px) translateY(0px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_3.onder {
+    transform: translateX(0px) translateY(23.7px);
+    transition: transform 1s ease;
+}
+
+#Witte_blok_3.boven {
+    transform: translateX(0px) translateY(-23.7px);
+    transition: transform 1s ease;
+}
