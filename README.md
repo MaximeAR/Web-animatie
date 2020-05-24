@@ -55,7 +55,7 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 - Het gemixte kleuren vlak = Een schilderij
 
 
-# Functies die ik heb gebruikt:
+# Functies:
 Automatische en oneindige animaties:
 -	De klok
 -	De vis
@@ -76,29 +76,19 @@ De toetsenbord animaties:
 -	De 3, 6 en 9 van de klok
 -	De 3 ‘ramen’ rechts bovenin
 
-Mijn nog niet uitgevoerde ideeën:
--	De vis die echt uit zijn kom springt daar in de lucht een salto doet en weer in zijn kom belandt.
--	De lamp die zachtjes heen en weer zou bewegen, alsof er bijvoorbeeld een raam open staat.
--	Het gebruiken van een dubbele keyCode 
--	De cijfers 3, 6 en 9 in de klok groter laten worden wanneer er op die toetsen wordt geklikt.
--	Het constant laten draaien van de wijzers van de klok.
--	Het verder uitbreiden van het ‘huis’ in de desktopversie.
-
-
-Bovenstaande ideeën zijn helaas niet uitgevoerd in mijn kunstwerk. Dit door onder andere een combinatie van te weinig kennis en te weinig tijd om deze kennis op te doen. 
-
 # Psuedo-classes:
-Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. 
+Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. Maar ook de 'ramen' rechts bovenin het goude vlakje, hebben een fill :hover gekregen. Ik heb dit met een doordachte reden gedaan, dit omdat de lijntjes van zichzelf niet heel duidelijk te zien zijn en door er een hover bij te maken wordt dit beter. 
 
-Ik heb mij wel nog ingelezen in de volgende psuedo-class:
+Als laastste hebben de vis en de klok nog een hover functie gekregen, eigenlijk omdat ik mijn eerste ideeën bij beide niet voormekaar kreeg en ik toch wat leuks wou doen. De vis maakt als het ware een salto in zijn kom en de klok draait een rondje.
+
+Ik heb mij wel nog ingelezen in de volgende psuedo-classes:
 - :active,
 - :first-of-type,
 - :last-of-type,
 - :first-child en
 - :nth-of-child.
 
-Ik moet gewoon eerlijk toegeven dat ik gewoonweg geen tijd meer had om deze psuedo-classes ook echt daadwerkelijk in mijn kunstwerk animatie terug te laten komen. De, voor de wat gevorderde codeur, standaard css codes waren voor mij al nieuw, waardoor dit veel tijd koste.  
-
+Ik moet hiebrij eerlijk toegeven dat ik gewoonweg geen tijd meer had om deze psuedo-classes ook echt daadwerkelijk in mijn kunstwerk terug te laten komen. De, voor de wat gevorderde codeur, standaard css codes waren voor mij al nieuw, waardoor dit veel tijd koste.  
 
 # Click animaties:
 
@@ -115,6 +105,16 @@ Of hoe had ik dat in gedachte:
 # Javascript:
 
 
+
+# Nog niet uitgevoerde ideeën:
+-	De vis die echt uit zijn kom springt daar in de lucht een salto doet en weer in zijn kom belandt.
+-	De lamp die zachtjes heen en weer zou bewegen, alsof er bijvoorbeeld een raam open staat.
+-	Het gebruiken van een dubbele keyCode 
+-	De cijfers 3, 6 en 9 in de klok groter laten worden wanneer er op die toetsen wordt geklikt.
+-	Het constant laten draaien van de wijzers van de klok.
+-	Het verder uitbreiden van het ‘huis’ in de desktopversie.
+
+Bovenstaande ideeën zijn helaas niet uitgevoerd in mijn kunstwerk. Dit door onder andere een combinatie van te weinig kennis en te weinig tijd om deze kennis op te doen. 
 
 # Conclusie:
 Ik ben over het algemeen tevreden over wat ik uiteindelijk neer heb kunnen zetten. Ik heb in een ruime 3 weken tijd super veel nieuwe dingen geleerd. 
