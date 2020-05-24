@@ -63,8 +63,11 @@ Om het kunstwerk bij openen niet zo statisch te maken, heb ik ervoor gekozen om 
 
 De elementen die al bewegen staan in de CSS op oneindig. Dit betreft de klok en het visje.
 
+#### Keyframes:
 
-# Psuedo-classes:
+
+
+#### Psuedo-classes:
 Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. Maar ook de 'ramen' rechts bovenin het goude vlakje, hebben een fill :hover gekregen. Ik heb dit met een duidelijke reden gedaan, omdat de lijntjes van zichzelf niet heel duidelijk te zien zijn en ik ze door er een hover bij te maken zichtbaarder wou maken. 
 
 Als laastste hebben de vis en de klok nog een hover functie gekregen. Dit eigenlijk omdat ik mijn eerste ideeën bij beide helaas niet kon realiseren en ik toch nog wat leuks wou doen met deze elementen. De vis maakt als het ware een salto in zijn kom en de klok draait een rondje.
@@ -110,13 +113,13 @@ Hoe zie ik alle animaties op mobiel terug:
 Of hoe had ik dat in gedachte:
 
 
-# Nog niet uitgevoerde ideeën:
--	De vis die echt uit zijn kom springt daar in de lucht een salto doet en weer in zijn kom belandt.
--	De lamp die zachtjes heen en weer zou bewegen, alsof er bijvoorbeeld een raam open staat.
+# Niet uitgevoerde ideeën:
+-	De vis die echt uit zijn kom springt daar in de lucht een salto doet en weer in zijn kom belandt
+-	De lamp die zachtjes heen en weer zou bewegen, alsof er bijvoorbeeld een raam open staat
 -	Het gebruiken van een dubbele keyCode 
--	De cijfers 3, 6 en 9 in de klok groter laten worden wanneer er op die toetsen wordt geklikt.
--	Het constant laten draaien van de wijzers van de klok.
--	Het verder uitbreiden van het ‘huis’ in de desktopversie.
+-	De cijfers 3, 6 en 9 in de klok groter laten worden wanneer er op die toetsen wordt geklikt
+-	Het constant laten draaien van de wijzers van de klok
+-	Het verder uitbreiden van het ‘huis’ in de desktopversie
 
 Bovenstaande ideeën zijn helaas niet uitgevoerd in mijn kunstwerk. Dit door onder andere een combinatie van te weinig kennis en te weinig tijd om deze kennis op te doen. 
 
@@ -125,15 +128,13 @@ Ik ben over het algemeen tevreden over wat ik uiteindelijk neer heb kunnen zette
 
 Toch denk ik dat ik er met iets meer tijd veel meer uit had kunnen halen. Dat ik al mijn ideeën niet mijn mobiele versie nog bijvoorbeeld nog niet optimaal werkt, vind ik jammer. 
 
-Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Dit heeft mij later wel veel tijd gekost. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast vond ik het heel lastig om specifiek te kunnen benoemen wat ik op dat moment niet snapte, om dit bijvoorbeeld op slack te vragen. Ik snapte namelijk letterlijk niet wat ik niet snapte. Dit zelfde goldt eigenlijk ook voor het zoeken op internet. Omdat ik dus niet specifiek wist waar ik precies naar opzoek was en er zo veel informatie op internet staat, zag ik soms door de bomen het bos niet meer.
+Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Had ik dit wel gedaan, had dit mij denk ik veel tijd gescheeld. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast vond ik het heel lastig om specifiek te kunnen benoemen wat ik op dat moment niet snapte, om dit bijvoorbeeld op slack te vragen. Ik snapte namelijk letterlijk niet wat ik niet snapte. Dit zelfde goldt eigenlijk ook voor het zoeken op internet. Omdat ik dus niet specifiek wist waar ik precies naar opzoek was en er zo veel informatie op internet staat, zag ik soms door de bomen het bos niet meer.
 
-Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen. Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Op internet zoeken vond ik dus ook vrij lastig. Dit aangezien ik dus niet specifiek wist wat ik fout deed of niet snapte en er zo veel informatie op internet staat, dat ik soms door de bomen het bos niet meer zag.
-
+Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen. Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Voorderest bleef het steeds wat aanpassen en kijken of het werkt, weer wat aanpassen en kijken, etc.
 
 # Eigen beoordeling:
 Als je het hebt over experimenteren, was eigenlijk deze hele opdracht voor mij een experiment. Elke functie die mijn kunstwerk nu op het web heeft was voor mij nieuw. Zelf het online krijgen van mijn gemaakte SVG was een opgave op zich. 
 
- 
 # Bronnen:
 Letterform Archive (z.d.). Olivetti Lettera 22. 
   Geraadpleegd op 7 mei 2020, van http://oa.letterformarchive.org/item?workID=lfa_pintori_0026&LFAPics=Yes
