@@ -134,10 +134,7 @@ Toch denk ik dat ik er met iets meer tijd veel meer uit had kunnen halen. Dat ik
 
 Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Had ik dit wel gedaan, had dit mij denk ik veel tijd gescheeld. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast vond ik het heel lastig om specifiek te kunnen benoemen wat ik op dat moment niet snapte, om dit bijvoorbeeld op slack te vragen. Ik snapte namelijk letterlijk niet wat ik niet snapte. Dit zelfde goldt eigenlijk ook voor het zoeken op internet. Omdat ik dus niet specifiek wist waar ik precies naar opzoek was en er zo veel informatie op internet staat, zag ik soms door de bomen het bos niet meer.
 
-Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen. Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Voorderest bleef het steeds wat aanpassen en kijken of het werkt, weer wat aanpassen en kijken, etc.
-
-# Eigen beoordeling:
-Als je het hebt over experimenteren, was eigenlijk deze hele opdracht voor mij een experiment. Elke functie die mijn kunstwerk nu op het web heeft was voor mij nieuw. Zelf het online krijgen van mijn gemaakte SVG was een opgave op zich. 
+Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen. Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Voorderest bleef het steeds wat aanpassen en kijken of het werkt, weer wat aanpassen en kijken, etc. Deze hele opdracht is voor mij een groot experiment geweest. 
 
 # Bronnen:
 Letterform Archive (z.d.). Olivetti Lettera 22. 
