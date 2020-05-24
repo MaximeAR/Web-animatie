@@ -30,8 +30,20 @@ Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in 
 # Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
 
-Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. 
+Ik zie dit kunstwerk nu met mijn animatie als een speels, kleurrijk en druk huis, waar in elke kamer wat anders gebeurt. Wat er precies gebeurt en hoe je dat kunt zien is in elke kamer anders. Het lijkt bijna wel op een puzzel waarbij je alle functies moet uitvogelen. Ik ben uiteindelijk erg blij met mijn keuze om het achtergrond verhaal van het originele kunstwerk compleet los te laten, omdat ik ander het idee heb dat je erg blijf hangen in het reclame verhaal, terwijl ik niet met dat idee in eerste instantie dit kunstwerk  gekozen had.
 
+# Aanpassingen en toevoegingen:
+Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. Nu laat ik elk blaadje naar een eigen 'kamer' vliegen, wat mij op het volgende idee bracht. In plaats van een schrijfmachine in ieder huis maak ik ervan een plantje in ieder huis.
+
+Aanpassingen en toevoegingen aan het originele kunstwerk:
+-	Een lichtknop in het lichtgroene vlak
+-	Een zwarte blak links bovenin zodat de lamp niet in het niets hangt
+-	De boot wijst de andere kant op
+-	Meerdere blaadjes toegevoegd op het zwarte vlak
+- Het woord 'schrijfmachine' veranderd naar 'plantje'
+-	De zin Olivetti Lettera 22 vervangen voor een extra kamer in het ‘huis’
+
+![Mijn kunstwerk](/Img/Eigenversie.png)
 
 Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 - Het Rode vlak = De slaapkamer
@@ -43,27 +55,7 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 - Het gemixte kleuren vlak = Een schilderij
 
 
-
-![Mijn kunstwerk](/Img/Eigenversie.png)
-
-
-
-
 # Functies die ik heb gebruikt:
-
-
-
-
-Aanpassingen en toevoegingen aan het originele kunstwerk:
--	Een lichtknop in het lichtgroene vlak.
--	Een zwarte blak links bovenin zodat de lamp niet in het niets hangt. 
--	De boot wijst de andere kant op.
--	Meerdere blaadjes toegevoegd op het zwarte vlak.
--	De zin “Een schrijfmachine in ieder huis” veranderd naar “Een plantje in ieder huis”.
--	De zin Olivetti Lettera 22 vervangen voor een extra kamer in het ‘huis’.
-
-
-
 Automatische en oneindige animaties:
 -	De klok
 -	De vis
@@ -93,7 +85,28 @@ Mijn nog niet uitgevoerde ideeën:
 -	Het verder uitbreiden van het ‘huis’ in de desktopversie.
 
 
-Bovenstaande ideeën zijn helaas niet uitgevoerd, door een combinatie van te weinig kennis en te weinig tijd om deze kennis op te doen. 
+Bovenstaande ideeën zijn helaas niet uitgevoerd in mijn kunstwerk. Dit door onder andere een combinatie van te weinig kennis en te weinig tijd om deze kennis op te doen. 
+
+# Psuedo-classes:
+Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. 
+
+Ik heb mij wel nog ingelezen in de volgende psuedo-class:
+- :active,
+- :first-of-type,
+- :last-of-type,
+- :first-child en
+- :nth-of-child.
+
+Ik moet gewoon eerlijk toegeven dat ik gewoonweg geen tijd meer had om deze psuedo-classes ook echt daadwerkelijk in mijn kunstwerk animatie terug te laten komen. De, voor de wat gevorderde codeur, standaard css codes waren voor mij al nieuw, waardoor dit veel tijd koste.  
+
+
+Click animaties:
+
+
+
+Keyboard animaties:
+
+Als laatste ben ik eigenlijk begonnen aan de toetsenbord clickfuncties. Na de laatste les van Danny de Vries, waarin hij naar mijn idee super goed uitlegde hoe je met bepaalde toetsenbord clicks dingen in je kunstwerk kon animeren, ging het toen ik het zelf ging proberen toch net iets minder soepel dan ik had gehoopt. Uiteindelijk denk ik dat ik er bij elkaar opgeteld wel zo’n 4 uur over heb gedaan voordat er eindelijk iets lukte. Gelukkig vind ik het persoonlijk daarna wel gemakkelijk om diezelfde code, om te zetten naar een andere animatie met een andere keycode. Wanneer ik eenmaal één juiste code heb, loopt alles gelukkig weer wat sneller.
 
 
 Hoe zie ik alle animaties op mobiel terug:
@@ -103,14 +116,11 @@ Of hoe had ik dat in gedachte:
 # Conclusie:
 Ik ben over het algemeen tevreden over wat ik uiteindelijk neer heb kunnen zetten. Ik heb in een ruime 3 weken tijd super veel nieuwe dingen geleerd. 
 
-
 Toch denk ik dat ik er met iets meer tijd veel meer uit had kunnen halen. Dat ik al mijn ideeën niet mijn mobiele versie nog bijvoorbeeld nog niet optimaal werkt, vind ik jammer. 
 
-Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Dit heeft mij later wel veel tijd gekost. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast was alles qua code nieuw voor mij, waardoor ik he heel lastig vond om specifiek te kunnen benoemen wat ik op dat moment niet snapte. Ik snapte namelijk letterlijk niet wat ik niet snapte.
+Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Dit heeft mij later wel veel tijd gekost. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast vond ik het heel lastig om specifiek te kunnen benoemen wat ik op dat moment niet snapte, om dit bijvoorbeeld op slack te vragen. Ik snapte namelijk letterlijk niet wat ik niet snapte. Dit zelfde goldt eigenlijk ook voor het zoeken op internet. Omdat ik dus niet specifiek wist waar ik precies naar opzoek was en er zo veel informatie op internet staat, zag ik soms door de bomen het bos niet meer.
 
-Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen.
-
-Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Op internet zoeken vond ik dus ook vrij lastig. Dit aangezien ik dus niet specifiek wist wat ik fout deed of niet snapte en er zo veel informatie op internet staat, dat ik soms door de bomen het bos niet meer zag.
+Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen. Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Op internet zoeken vond ik dus ook vrij lastig. Dit aangezien ik dus niet specifiek wist wat ik fout deed of niet snapte en er zo veel informatie op internet staat, dat ik soms door de bomen het bos niet meer zag.
 
 
 # Eigen beoordeling:
