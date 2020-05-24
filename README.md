@@ -101,7 +101,9 @@ De 3 wordt logischerwijs geactiveerd bij het indrukken van de nummer 3 (keyCode 
 Alle 3 de blokjes worden tegelijk aaangesproken. Deze gaan naar links door de ArrowLeft op je toetsenbord aan te klikken, naar boven door de ArrowUp aan te klikken en naar benden door natuurlijk de ArrowDown aan te klikken.
 
 # Javascript:
+Om mijn click animaties en mijn toetsenbord animaties ook daadwerkelijk te laten werken moest ik mij verdiepen in de Javascript. Allereerst de met de muis klikbare animaties, zijn in Javascript gemaakt met de .onclick function en de .addEventListener('click'). De eerste code heb ik gebruikt, wanneer er meer elementen moesten gaan animeren dan enkel en alleen het geklikte element, zoals bijvoorbeeld bij het omkeren van de kleuren van de gehele SVG. De tweede code heb ik bij al mijn andere klikbare animaties gebruikt, zoals de blaadjes.
 
+Mijn toetsenbord animaties heb ik met Javascript gemaakt met behulp van de even.keyCode. Hierbij zoek je op internet de bij je uigekozen toets behorende code en geeft aan wat je SVG moet doen wanneer deze wordt aangeklikt.
 
 # Mobiel functies:
 
