@@ -74,7 +74,6 @@ function schuiven6(){
 
 /*---------------------------------------------------------*/
 
-
 var Boot = document.querySelector('#Boot');
 console.log(Boot);
 
@@ -84,14 +83,6 @@ function toggle(event) {
     if (event.keyCode === 32) {
         Boot.classList.toggle('move');
     }
-}
-
-var Bootmobiel = document.querySelector('#Boot');
-
-window.addEventListener('longpress', varen);
-
-function varen(){
-    Bootmobiel.classList.toggle('move');
 }
 
 /*---------------------------------------------------------*/
