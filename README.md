@@ -37,4 +37,4 @@ Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever 
 
 
 
-![Het contrast](/Img/Screenshot 2020-05-24 at 12.34.03.png)
+![Het contrast](/Img/LFA_Pintori_0026_001.jpg)
