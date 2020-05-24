@@ -113,11 +113,14 @@ Mijn toetsenbord animaties heb ik met Javascript gemaakt met behulp van de even.
 
 # Mobiel functies:
 
-De gehele svg wordt wanneer het scherm naar een kleiner formaat gaat ook kleiner, maar blijf hierbij wel ten alle tijden in het midden staan. 
+De gehele svg wordt wanneer het scherm naar een kleiner formaat gaat ook kleiner, maar blijf hierbij wel ten alle tijden in het midden staan. Mijn kunstwerk is dus op elk scherm goed te bekijken. 
+Ik heb geprobeerd zoveel mogelijk van de animaties die beschikbaar zijn op de desktop ook terug te laten komen wanneer je hem opend op je mobiel. Zo zijn de blaadjes via je touch scheen nog steeds klikbaar, waardoor deze zich allemaal naar een 'kamer' verplaatsen. Ook de lichtknop is via touch schreen te bedienen, waardoor het kunstwerk zijn kleuren omkeerd. 
 
-Hoe zie ik alle animaties op mobiel terug:
-Of hoe had ik dat in gedachte:
+Ook de vis en de klok blijven interactief op je mobiel. Op de desktop hebben deze elementen een hover, op je mobiel worden deze echter geactiveerd door op de elementen zelf te klikken. 
 
+Ik heb nog geprobeerd om de boot, die op de desktop te bewegen is via de spatieblak, op je mobiel beweegbaar te maken via een click. Echter zijn de lijnen van de boot zo dun dat het bijna onmogelijk is om hier precies met een vinger op te klikken. Ik heb het daarna nog even geprobeerd met de klikbare grijze balk die je daarnaast ziet, maar nogmaal helaas te weinig tijd om dit nog optimaal werkend te krijgen. 
+
+Ook had ik nog eventueel het idee om een toetsenbord in beeld te laten komen, waar je de nummer 3, 6 en 9 aan kunt klikken. Dit toetsenbord is dan te activeren door te klikken op een mini toetsenbordje in een hoekje van het kunstwerk, die ik daar nog bij zou maken. Als laatste zouden de 'ramen' naar benden en naar boven bewogen kunnen worden, wanneer je op je geluidsknopjes klikt aan de zijkant van je mobiel. Echter had ik nog niet de tijd kunnen vinden om uit te zoeken of dat überhaupt mogelijk is.
 
 # Niet uitgevoerde ideeën:
 -	De vis die echt uit zijn kom springt daar in de lucht een salto doet en weer in zijn kom belandt
@@ -130,13 +133,11 @@ Of hoe had ik dat in gedachte:
 Bovenstaande ideeën zijn helaas niet uitgevoerd in mijn kunstwerk. Dit door onder andere een combinatie van te weinig kennis en te weinig tijd om deze kennis op te doen. 
 
 # Conclusie:
-Ik ben over het algemeen tevreden over wat ik uiteindelijk neer heb kunnen zetten. Ik heb in een ruime 3 weken tijd super veel nieuwe dingen geleerd. 
-
-Toch denk ik dat ik er met iets meer tijd veel meer uit had kunnen halen. Dat ik al mijn ideeën niet mijn mobiele versie nog bijvoorbeeld nog niet optimaal werkt, vind ik jammer. 
+Ik ben over het algemeen tevreden over wat ik uiteindelijk neer heb kunnen zetten. Ik heb in een ruime 3 weken tijd super veel nieuwe dingen geleerd. De woorden HTML, CSS en Javascript hebben nu een beeld gekregen en de oneindige mogelijkheden zijn op mijn netvlies gebrand. Toch denk ik dat ik er met iets meer tijd veel meer uit had kunnen halen maar helaas kosten alles van begin tot eind opzoeken ontzettend veel tijd. 
 
 Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Had ik dit wel gedaan, had dit mij denk ik veel tijd gescheeld. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast vond ik het heel lastig om specifiek te kunnen benoemen wat ik op dat moment niet snapte, om dit bijvoorbeeld op slack te vragen. Ik snapte namelijk letterlijk niet wat ik niet snapte. Dit zelfde goldt eigenlijk ook voor het zoeken op internet. Omdat ik dus niet specifiek wist waar ik precies naar opzoek was en er zo veel informatie op internet staat, zag ik soms door de bomen het bos niet meer.
 
-Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen. Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Voorderest bleef het steeds wat aanpassen en kijken of het werkt, weer wat aanpassen en kijken, etc. Deze hele opdracht is voor mij een groot experiment geweest. 
+Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen. Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Voorderest bleef het steeds wat aanpassen en kijken of het werkt, weer wat aanpassen en kijken, etc. Deze hele opdracht is voor mij een groot experiment geweest en ik ben trots op mezelf. 
 
 # Bronnen:
 Letterform Archive (z.d.). Olivetti Lettera 22. 
