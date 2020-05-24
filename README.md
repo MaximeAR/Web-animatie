@@ -62,18 +62,20 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 
 
 # Functies:
-Automatische en oneindige animaties:
--	De klok
--	De vis
+Om het kunstwerk bij openen niet zo statisch te maken, heb ik ervoor gekozen om al een paar elementen uit het kunstwerk te laten bewegen. Hiermee weten de kijkers/gebruikers hopelijk ook gelijk dat het niet zomaar een afbeelding is maar dat je er daadwerkelijk zelf dingen mee kan doen. 
 
-Mijn hover animaties:
+De elementen die al bewegen staan in de CSS op oneindig. Dit betreft de klok en het visje.
+
+#### Hover animaties:
 -	Het lichtknopje
 -	De 3 ‘ramen’ rechts bovenin
 -	De vis
 
-Mijn click animaties:
+#### Click animaties:
 -	De blaadjes
 -	Het lichtknopje
+
+Ook het klikbaar maken van een SVG met behulp van CSS en Javascript was voor mij nog geheel onbekend. Uiteindelijk heb ik zo'n 2,5 uur over mijn eerst click gedaan.
 
 ![Mijn kunstwerk invert](/Img/Invert.png)
 
@@ -102,17 +104,12 @@ Ik heb mij wel nog ingelezen in de volgende psuedo-classes:
 
 Ik moet hiebrij eerlijk toegeven dat ik gewoonweg geen tijd meer had om deze psuedo-classes ook echt daadwerkelijk in mijn kunstwerk terug te laten komen. De, voor de wat gevorderde codeur, standaard css codes waren voor mij al nieuw, waardoor dit veel tijd koste.  
 
-# Click animaties:
-
-
 
 # Keyboard animaties:
 
 Als laatste ben ik eigenlijk begonnen aan de toetsenbord clickfuncties. Na de laatste les van Danny de Vries, waarin hij naar mijn idee super goed uitlegde hoe je met bepaalde toetsenbord clicks dingen in je kunstwerk kon animeren, ging het toen ik het zelf ging proberen toch net iets minder soepel dan ik had gehoopt. Uiteindelijk denk ik dat ik er bij elkaar opgeteld wel zo’n 4 uur over heb gedaan voordat er eindelijk iets lukte. Gelukkig vind ik het persoonlijk daarna wel gemakkelijk om diezelfde code, om te zetten naar een andere animatie met een andere keycode. Wanneer ik eenmaal één juiste code heb, loopt alles gelukkig weer wat sneller.
 
 
-Hoe zie ik alle animaties op mobiel terug:
-Of hoe had ik dat in gedachte:
 
 # Javascript:
 
@@ -120,6 +117,9 @@ Of hoe had ik dat in gedachte:
 # Mobiel functies:
 
 De gehele svg wordt wanneer het scherm naar een kleiner formaat gaat ook kleiner, maar blijf hierbij wel ten alle tijden in het midden staan. 
+
+Hoe zie ik alle animaties op mobiel terug:
+Of hoe had ik dat in gedachte:
 
 
 # Nog niet uitgevoerde ideeën:
