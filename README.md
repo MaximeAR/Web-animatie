@@ -11,25 +11,23 @@ Alhoewel het natuurlijk niet helemaal de bedoeling was, heb ik dit kunstwerk eni
 
 
 ## Mijn kunstwerk:
-Mijn uitgekozen kunstwerk is in 1950 door Giovanni Pintori in opdracht van Olivetti gemaakt en gaat over een ouderwetse typmachine genaamd Lettera 22.
+Mijn uitgekozen kunstwerk is in 1950 door Giovanni Pintori in opdracht van Olivetti gemaakt en gaat over een ouderwetse typmachine genaamd Lettera 22. De Olivetti Lettera 22 is een draagbare mechanische typemachine ontworpen door Marcello Nizzoli in 1949. De typemachine was toen der tijd erg populair in Italië en heeft nog steeds veel fans. De typemachine heeft een afmeting van ongeveer 27x37x8 cm, waardoor hij in die tijd als redelijk draagbaar werd gezien. Hoewel he gewicht van maar liefst 3,7 kg de draagbaarheid enigszins beperkte. 
+
+![Olivetti Lettera 22](/Img/LFA_Pintori_0026_001.jpg)
+
+http://oa.letterformarchive.org/item?workID=lfa_pintori_0026&LFAPics=Yes
 
 Olivetti is een Italiaanse fabriek van computers, printers en andere kantoormachines.
 Olivetti is in 1908 nabij Turijn opgericht door Camillo Olivetti als fabriek van schrijfmachines. Het bedrijf ontwikkelde zich voornamelijk onder zijn zoon Adriano Olivetti, die ook beroemd is geworden wegens het ontwikkelen van een nieuw managementsysteem. De eerste overzeese vestiging werd in 1930 geopend. 
 
-Giovanni Pintori was een Italiaanse grafisch ontwerper die vooral bekend stond om zijn reclamewerk met Olivetti. Hij staat bekend om zijn gebruik van geometrische vormen en minimalistische stijl in zijn reclameposters. 
+Giovanni Pintori was een Italiaanse grafisch ontwerper die vooral bekend stond om zijn reclamewerk met Olivetti. Hij staat bekend om zijn gebruik van geometrische vormen en minimalistische stijl in zijn reclameposters. Ook mijn uitgekozen kunstwerk is eigenlijk niet meer dan een promotiemiddel met als boodschap dat eigenlijk elk huishouden en Lettera 22 moet hebben.
 
-Zo zijn er nog een aantal reclameposter gemaakt voor Olivetti, die ik hieronder even toe zal voegen voor een wat completer beeld van Giovanni en zijn manier van werken. Twee van onderstaande kunstwerken zijn in het Italiaans en de ander is nogmaals in het Nederlands.
+Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in opdracht voor Olivetti door Giovanni gemaakt. Om een wat completer beeld te geven van Giovanni en zijn manier van werken, heb ik ze hieronder toegevoegd. Twee van onderstaande kunstwerken zijn in het Italiaans en de ander is nogmaals in het Nederlands.
 
-De Olivetti Lettera 22 is een draagbare mechanische typemachine ontworpen door Marcello Nizzoli in 1949. De typemachine was toen der tijd erg populair in Italië en heeft nog steeds veel fans. Het werd gekozen als het beste designproduct van de afgelopen 100 jaar.
-
-De typemachine heeft een afmeting van ongeveer 27x37x8 cm, waardoor hij in die tijd als redelijk draagbaar werd gezien. Hoewel he gewicht van maar liefst 3,7 kg de draagbaarheid enigszins beperkte. 
-
-Dit kunstwerk heeft als boodschap dat elk huishouden en Lettera 22 moest hebben. Het kunstwerk was toen der tijd dus eigenlijk gewoon een soort promotiemiddel.
+![andere kunstwerken](/Img/3kunstwerken.png)
 
 
-![Het kunstwerk](https://designarchives.aiga.org/assets/images/000/019/941/19941_lg.jpg)
 
-https://designarchives.aiga.org/#/entries/%2Bcollections%3A%22California%20Graphic%20Design%201980%E2%80%931982%22/_/detail/relevance/asc/85/7/12931/venture-graphics/1
 
 ## Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
@@ -37,4 +35,3 @@ Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever 
 
 
 
-![Het contrast](/Img/LFA_Pintori_0026_001.jpg){:height="700px" width="400px"}
