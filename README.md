@@ -1,5 +1,5 @@
 # Maxime Alvarez Ruiz VID1
-[Eindversie]()
+[Eindversie](https://maximear.github.io/Web-animatie/Versie5/index.html)
 
 Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface Design. Een blok waar sommige mensen misschien wel zin in hadden, andere mensen juist niet en dan heb je mij. Ik had werkelijk waar geen idee wat ik moest verwachten. HTML, CSS en Javascript, woorden die ik kende maar waar voor mij geen beeld aan vast zat. Wat gaat dit worden, gaan de thuislessen genoeg voor mij zijn?
 
