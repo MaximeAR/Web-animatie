@@ -91,6 +91,8 @@ Ook het klikbaar maken van een SVG met behulp van CSS en Javascript was voor mij
 
 Toen ik die klik eenmaal voor elkaar had, ben ik verder gegaan me mijn blaadjes. Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het kunstwerk wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. Nu laat ik elk blaadje naar een eigen 'kamer' vliegen, wat mij uiteindelijk op het idee bracht om in plaats van een schrijfmachine in ieder huis, een plantje in ieder huis te doen.
 
+![Plantjes in ieder huis](/Img/blaadjes.png)
+
 #### De toetsenbord animaties:
 Als laatste ben ik eigenlijk begonnen aan de toetsenbord clickfuncties. Na de laatste les van Danny de Vries, waarin hij naar mijn idee super goed uitlegde hoe je met bepaalde toetsenbord clicks dingen in je kunstwerk kon animeren, ging het toen ik het zelf ging proberen toch net iets minder soepel dan ik had gehoopt. Uiteindelijk denk ik dat ik er bij elkaar opgeteld wel zo’n 4 uur over heb gedaan voordat er eindelijk iets lukte. Gelukkig vind ik het persoonlijk daarna wel gemakkelijk om diezelfde code, om te zetten naar een andere animatie met een andere keycode. Wanneer ik eenmaal één juiste code heb, loopt alles gelukkig weer wat sneller.
 
