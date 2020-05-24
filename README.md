@@ -52,14 +52,6 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 Functies die ik heb gebruikt:
 
 
-Rode vlak (links boven): slaapkamer
-Lichtgroene vlak: gang/hal
-Blauwe vlak: studeerkamer
-Zwarte vlak: tuin
-Goude vlak (rechts boven): ramen
-Donkergroene vlak: woonkamer
-Mix kleuren vlak: schilderij
-
 
 
 Aanpassingen en toevoegingen aan het originele kunstwerk:
@@ -85,6 +77,7 @@ Mijn click animaties:
 -	De blaadjes
 -	Het lichtknopje
 
+![Mijn kunstwerk invert](/Img/Invert.png)
 
 De toetsenbord animaties:
 -	De boot
@@ -115,11 +108,14 @@ Toch denk ik dat ik er met iets meer tijd veel meer uit had kunnen halen. Dat ik
 
 Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Dit heeft mij later wel veel tijd gekost. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast was alles qua code nieuw voor mij, waardoor ik he heel lastig vond om specifiek te kunnen benoemen wat ik op dat moment niet snapte. Ik snapte namelijk letterlijk niet wat ik niet snapte.
 
+Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasgenoten, om via code die wel al goed in elkaar zat, mezelf te leren hoe ik dit naar mijn eigen kunstwerk kon vertalen.
+
+Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Op internet zoeken vond ik dus ook vrij lastig. Dit aangezien ik dus niet specifiek wist wat ik fout deed of niet snapte en er zo veel informatie op internet staat, dat ik soms door de bomen het bos niet meer zag.
+
+
 Eigen beoordeling:
 
 Als je het hebt over experimenteren, was eigenlijk deze hele opdracht voor mij een experiment. Elke functie die mijn kunstwerk nu op het web heeft was voor mij nieuw. Zelf het online krijgen van mijn gemaakte SVG was een opgave op zich. 
-
-
 
  
 Bronnen:
