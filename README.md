@@ -10,7 +10,7 @@ Ik heb mijn kunstwerk uiteindelijk gevonden op de website: https://letterformarc
 Alhoewel het natuurlijk niet helemaal de bedoeling was, heb ik dit kunstwerk enigszins met bepaalde criteria in mijn achterhoofd uitgekozen. Zo kon ik zien dat dit kunstwerk in illustrator niet al te moeilijk na te maken zou zijn, maar waarbij ik wel al super veel leuke ideeën qua animatie kon bedenken. 
 
 
-## Mijn kunstwerk:
+# Mijn kunstwerk:
 Mijn uitgekozen kunstwerk is in 1954 door Giovanni Pintori in opdracht van Olivetti gemaakt en gaat over een ouderwetse typmachine genaamd Lettera 22. De Olivetti Lettera 22 is een draagbare mechanische typemachine ontworpen door Marcello Nizzoli in 1949. De typemachine was toen der tijd erg populair in Italië en heeft nog steeds veel fans.
 
 ![Olivetti Lettera 22](/Img/Mijnkunstwerk.png)
@@ -100,17 +100,20 @@ Ik heb mij wel nog ingelezen in de volgende psuedo-class:
 Ik moet gewoon eerlijk toegeven dat ik gewoonweg geen tijd meer had om deze psuedo-classes ook echt daadwerkelijk in mijn kunstwerk animatie terug te laten komen. De, voor de wat gevorderde codeur, standaard css codes waren voor mij al nieuw, waardoor dit veel tijd koste.  
 
 
-Click animaties:
+# Click animaties:
 
 
 
-Keyboard animaties:
+# Keyboard animaties:
 
 Als laatste ben ik eigenlijk begonnen aan de toetsenbord clickfuncties. Na de laatste les van Danny de Vries, waarin hij naar mijn idee super goed uitlegde hoe je met bepaalde toetsenbord clicks dingen in je kunstwerk kon animeren, ging het toen ik het zelf ging proberen toch net iets minder soepel dan ik had gehoopt. Uiteindelijk denk ik dat ik er bij elkaar opgeteld wel zo’n 4 uur over heb gedaan voordat er eindelijk iets lukte. Gelukkig vind ik het persoonlijk daarna wel gemakkelijk om diezelfde code, om te zetten naar een andere animatie met een andere keycode. Wanneer ik eenmaal één juiste code heb, loopt alles gelukkig weer wat sneller.
 
 
 Hoe zie ik alle animaties op mobiel terug:
 Of hoe had ik dat in gedachte:
+
+# Javascript:
+
 
 
 # Conclusie:
@@ -124,7 +127,6 @@ Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasge
 
 
 # Eigen beoordeling:
-
 Als je het hebt over experimenteren, was eigenlijk deze hele opdracht voor mij een experiment. Elke functie die mijn kunstwerk nu op het web heeft was voor mij nieuw. Zelf het online krijgen van mijn gemaakte SVG was een opgave op zich. 
 
  
@@ -140,6 +142,3 @@ Wikipedia (2019, 7 september). Giovanni Pintori.
   
 Wikipedia (2019, 1 december). Olivetti. 
   Geraadpleegd op 24 mei 2020, van https://nl.wikipedia.org/wiki/Olivetti
-
-
-
