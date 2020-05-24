@@ -1,0 +1,237 @@
+/*algemeen*/
+
+#body {
+    background-color: #F0E9DE;
+    Display: block;
+    Justify-content: center;
+    Align-items: center;
+}
+
+#body.invert {
+    filter: invert(100%);
+    background-color: #0f1620;
+    Display: block;
+    Justify-content: center;
+    Align-items: center;
+}
+
+svg {
+    background-color: #F0E9DE;
+    max-width: 100vw;
+    max-height: 95vh;
+}
+
+
+/*-----------------------------*/
+
+#Knopje :hover {
+    fill: #EA5235;
+}
+
+/*-----------------------------*/
+
+#Witte_blok_1 :hover {
+    fill: #FFFFFF;
+}
+
+#Witte_blok_2 :hover {
+    fill
+    : #FFFFFF;
+}
+#Witte_blok_3 :hover {
+    fill: #FFFFFF;
+}
+
+
+/*-----------------------------*/
+
+#Vis {
+    animation-name: swim;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes swim {
+    from { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+    to { transform: translateY(0px); }
+}
+
+#Vis:hover {
+    animation: rotate 1s infinite;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+/*-----------------------------*/
+
+#Klok {
+	animation-name: linksrechts;
+	animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes linksrechts {
+  from { transform: translateX(0px); }
+    65%  { transform: translateX(-150px); }
+    to   { transform: translateX(0px); }    
+}
+
+
+
+
+/*-----------------------------*/
+
+
+#Tekst {
+	animation:tekst ease-in 1s;
+	animation-duration: 2s;
+}
+
+@keyframes tekst {
+	0% { 
+		transform: scaleY(0)
+	}
+	85% { 
+		transform: scaleY(1)
+	}
+	
+}
+/*-----------------------------*/
+
+
+#_Group_1 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+}
+
+#_Group_1.Bewegen1 {
+    opacity: 1;
+    transform: translateX(700px) translateY(-400px);
+    transition: transform 1s ease;
+}
+
+#_Group_2 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:4s;
+}
+
+#_Group_2.Bewegen2 {
+    opacity: 1;
+    transform: translateX(-500px) translateY(-700px);
+    transition: transform 1s ease;
+}
+
+#_Group_3 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 0.7s;
+} 
+
+#_Group_3.Bewegen3 {
+    opacity: 1;
+    transform: translateX(800px) translateY(200px);
+    transition: transform 1s ease;
+}
+
+#_Group_4 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 0.7s;
+}
+
+#_Group_4.Bewegen4 {
+    opacity: 1;
+    transform: translateX(-250px) translateY(-400px);
+    transition: transform 1s ease;
+}
+
+#_Group_5 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+	animation-delay: 1.4s;
+}
+
+#_Group_5.Bewegen5 {
+    opacity: 1;
+    transform: translateX(600px) translateY(-750px);
+    transition: transform 1s ease;
+}
+
+#_Group_6 {
+	opacity:0; 
+    transition: transform 1s ease;
+	animation:verschijnen ease-in 1s;
+	animation-fill-mode:forwards;
+	animation-duration:2s;
+}
+
+#_Group_6.Bewegen6 {
+    opacity: 1;
+    transform: translateX(-300px) translateY(100px);
+    transition: transform 1s ease;
+}
+
+
+@keyframes verschijnen { 
+	from { opacity:0; } 
+	to { opacity:1; } 
+}
+
+/*------------oefen dingen-------------*/
+
+
+#Boot {
+    transform: translateX(0px) translateY(0px);
+}
+
+#Boot.move {
+    transform: translateX(200px) translateY(0px);
+}
+
+/*----------------------*/
+
+
+.links{
+    transform: translate(-100px);
+}
+.rechts{
+    transform: translate(100px);
+}
+.onder{
+    transform: translate(0, 100px);
+}
+.boven{
+    transform: translate(0, -100px);
+}
+
+
+
+
+
