@@ -59,9 +59,7 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 - Het gemixte kleuren vlak = Een schilderij
 
 # Functies:
-Om het kunstwerk bij openen niet zo statisch te maken, heb ik ervoor gekozen om al een paar elementen uit het kunstwerk te laten bewegen. Hiermee weten de kijkers/gebruikers hopelijk ook gelijk dat het niet zomaar een afbeelding is maar dat je er daadwerkelijk zelf dingen mee kan doen. 
-
-De elementen die al bewegen staan in de CSS op oneindig. Dit betreft de klok en het visje.
+Om het kunstwerk bij openen niet zo statisch te maken, heb ik ervoor gekozen om al een paar elementen uit het kunstwerk te laten bewegen. Hiermee weten de kijkers/gebruikers hopelijk ook gelijk dat het niet zomaar een afbeelding is maar dat je er daadwerkelijk zelf dingen mee kan doen. Dit betreft de klok en het visje, die in de CSS op oneindig staan. 
 
 #### Keyframes:
 
