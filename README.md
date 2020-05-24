@@ -121,10 +121,13 @@ Als je het hebt over experimenteren, was eigenlijk deze hele opdracht voor mij e
 # Bronnen:
 Letterform Archive (z.d.). Olivetti Lettera 22. 
   Geraadpleegd op 7 mei 2020, van http://oa.letterformarchive.org/item?workID=lfa_pintori_0026&LFAPics=Yes
+  
 Wikipedia (2020, 24 april). Olivetti Lettera 22. 
   Geraadpleegd op 24 mei 2020, van https://en.wikipedia.org/wiki/Olivetti_Lettera_22
+  
 Wikipedia (2019, 7 september). Giovanni Pintori. 
   Geraadpleegd op 24 mei 2020, van https://en.wikipedia.org/wiki/Giovanni_Pintori
+  
 Wikipedia (2019, 1 december). Olivetti. 
   Geraadpleegd op 24 mei 2020, van https://nl.wikipedia.org/wiki/Olivetti
 
