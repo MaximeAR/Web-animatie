@@ -37,4 +37,4 @@ Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever 
 
 
 
-![Het contrast](/Img/LFA_Pintori_0026_001.jpg) {:height="50%" width="50%"}
+![Het contrast](/Img/LFA_Pintori_0026_001.jpg){:height="700px" width="400px"}
