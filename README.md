@@ -32,6 +32,10 @@ Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever 
 
 Ik zie dit kunstwerk nu met mijn animatie als een speels, kleurrijk en druk huis, waar in elke kamer wat anders gebeurt. Wat er precies gebeurt en hoe je dat kunt zien is in elke kamer anders. Het lijkt bijna wel op een puzzel waarbij je alle functies moet uitvogelen. Ik ben uiteindelijk erg blij met mijn keuze om het achtergrond verhaal van het originele kunstwerk compleet los te laten, omdat ik ander het idee heb dat je erg blijf hangen in het reclame verhaal, terwijl ik niet met dat idee in eerste instantie dit kunstwerk  gekozen had.
 
+Ik heb er met een daadwerkelijke reden voor gekozen om mijn kunstwerk uiteindelijk niet over de gehele breedte van het computer scherm te zetten. Dit omdat ik wil dat je als kijker gelijk het gehele kuntwerk kan zien en daarbij dus ook gelijk alle animaties. Denk bijvoorbeeld aan de blaadjes die langzaam in-faden of de klok die heen en weer beweegt. Deze zouden anders allemaal verstopt zijn en pas te voorschijn komen op het moment dat er eventueel gescrolled wordt.
+
+Het liefste had ik gezien dat het kunstwerk op de computer nog extra kamers aan de linker- en rechterkant had, om daarmee het beeld wat meer op te vullen. Helaas was dit ook één van mijn plannen die ik door tijd tekort niet heb kunenn verwezenlijken. 
+
 # Aanpassingen en toevoegingen:
 Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. Nu laat ik elk blaadje naar een eigen 'kamer' vliegen, wat mij op het volgende idee bracht. In plaats van een schrijfmachine in ieder huis maak ik ervan een plantje in ieder huis.
 
@@ -39,9 +43,11 @@ Aanpassingen en toevoegingen aan het originele kunstwerk:
 -	Een lichtknop in het lichtgroene vlak
 -	Een zwarte blak links bovenin zodat de lamp niet in het niets hangt
 -	De boot wijst de andere kant op
--	Meerdere blaadjes toegevoegd op het zwarte vlak
+-	Extra blaadjes toegevoegd op het zwarte vlak
 - Het woord 'schrijfmachine' veranderd naar 'plantje'
+- Een vraagteken toegevoegd
 -	De zin Olivetti Lettera 22 vervangen voor een extra kamer in het ‘huis’
+- Een klok in de extra kamer
 
 ![Mijn kunstwerk](/Img/Eigenversie.png)
 
@@ -71,10 +77,16 @@ Mijn click animaties:
 
 ![Mijn kunstwerk invert](/Img/Invert.png)
 
-De toetsenbord animaties:
--	De boot
--	De 3, 6 en 9 van de klok
--	De 3 ‘ramen’ rechts bovenin
+#### De toetsenbord animaties:
+-	De boot 
+-	De cijfers 3, 6 en 9 in de klok 
+-	De 3 ‘ramen’ rechts bovenin 
+
+De boot wordt wordt geactiveerd bij het indrukken van je spatieblak (keyCode 32). Hier heb ik een toggle aan gegeven, zodat deze gemakkelijk weer terug komt op zijn plaats. Dit had bijvoorbeeld ook met een andere toets gedaan kunenn worden, echter had ik het idee dat, aangezien ik hiervoor de spatiebalk gebruik, dit wel iets heel natuurlijks is. De spatiebaalk heeft namelijk niet echt een tegenovergestelde toets.
+
+De 3 wordt logischerwijs geactiveerd bij het indrukken van de nummer 3 (keyCode 51), de 6 bij het indrukken van de nummer 6 (keyCode 54) en de 9 bij het indrukken van de nummer 9 (keyCode 57). De nummer 12 heb ik hierbij helaas weg moeten laten omdat Danny de Vries in een college aangaf dat de code bij het indrukken van twee toetsen wel erg moeilijk wordt voor deze opdracht. Eventueel iets om mee te experimenteren bij een eventuele volgende opdracht.
+
+Alle 3 de blokjes worden tegelijk aaangesproken. Deze gaan naar links door de ArrowLeft op je toetsenbord aan te klikken, naar boven door de ArrowUp aan te klikken en naar benden door natuurlijk de ArrowDown aan te klikken.
 
 # Psuedo-classes:
 Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. Maar ook de 'ramen' rechts bovenin het goude vlakje, hebben een fill :hover gekregen. Ik heb dit met een doordachte reden gedaan, dit omdat de lijntjes van zichzelf niet heel duidelijk te zien zijn en door er een hover bij te maken wordt dit beter. 
@@ -104,6 +116,10 @@ Of hoe had ik dat in gedachte:
 
 # Javascript:
 
+
+# Mobiel functies:
+
+De gehele svg wordt wanneer het scherm naar een kleiner formaat gaat ook kleiner, maar blijf hierbij wel ten alle tijden in het midden staan. 
 
 
 # Nog niet uitgevoerde ideeën:
