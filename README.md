@@ -1,5 +1,3 @@
-# Web-animatie
-
 # Maxime Alvarez Ruiz VID1
 [Demo van de eindversie]()
 
