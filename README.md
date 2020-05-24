@@ -41,9 +41,6 @@ Ik heb er met een daadwerkelijke reden voor gekozen om mijn kunstwerk uiteindeli
 Het liefste had ik gezien dat het kunstwerk op de computer nog extra kamers aan de linker- en rechterkant had, om daarmee het beeld wat meer op te vullen. Helaas was dit ook één van mijn plannen die ik door tijd tekort niet heb kunenn verwezenlijken. 
 
 # Aanpassingen en toevoegingen:
-Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. Nu laat ik elk blaadje naar een eigen 'kamer' vliegen, wat mij op het volgende idee bracht. In plaats van een schrijfmachine in ieder huis maak ik ervan een plantje in ieder huis.
-
-Aanpassingen en toevoegingen aan het originele kunstwerk:
 -	Een lichtknop in het lichtgroene vlak
 -	Een zwarte blak links bovenin zodat de lamp niet in het niets hangt
 -	De boot wijst de andere kant op
@@ -68,8 +65,9 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 Om het kunstwerk bij openen niet zo statisch te maken, heb ik ervoor gekozen om al een paar elementen uit het kunstwerk te laten bewegen. Hiermee weten de kijkers/gebruikers hopelijk ook gelijk dat het niet zomaar een afbeelding is maar dat je er daadwerkelijk zelf dingen mee kan doen. Dit betreft de klok en het visje, die in de CSS op oneindig staan. 
 
 #### Keyframes:
+De eerste keyframes die ik bij deze opdracht geschreven heb, was voor de tekst die bij het opstarten als het ware vanaf boven in beeld komt vliegen. Daarnaast heb ik voor zowel de oneindige animaties als de roterende animaties gebruik gemaakt van keyframes. Ik heb hierbij moeten kijken tot hoe ver ik mijn elementen wou laten bewegen, ze begonnen en eindigde echter altijd op 0.
 
-
+![Keyframes](/Img/Keyframes.png)
 
 #### Psuedo-classes:
 Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. Maar ook de 'ramen' rechts bovenin het goude vlakje, hebben een fill :hover gekregen. Ik heb dit met een duidelijke reden gedaan, omdat de lijntjes van zichzelf niet heel duidelijk te zien zijn en ik ze door er een hover bij te maken zichtbaarder wou maken. 
@@ -86,19 +84,15 @@ Ik heb mij wel nog ingelezen in de volgende psuedo-classes:
 Ik moet hiebrij eerlijk toegeven dat ik gewoonweg geen tijd meer had om deze psuedo-classes ook echt daadwerkelijk in mijn kunstwerk terug te laten komen. De, voor de wat gevorderde codeur, standaard css codes waren voor mij al nieuw, waardoor dit veel tijd koste.  
 
 #### Click animaties:
--	De blaadjes
--	Het lichtknopje
 
-Ook het klikbaar maken van een SVG met behulp van CSS en Javascript was voor mij nog geheel onbekend. Uiteindelijk heb ik zo'n 2,5 uur over mijn eerst click gedaan.
+Ook het klikbaar maken van een SVG met behulp van CSS en Javascript was voor mij nog geheel onbekend. Dit was nog best een uitzoek werkje om voor elkaar te kijgen. Uiteindelijk heb ik zo'n 2,5 uur over mijn eerst click gedaan. Mijn eerste klik is het lichtknopje geweest. Die vond ik werkelijkwaar zo leuk, dat ik die echt met alle macht erin wou hebben. Eerst was mijn idee nog om me het lichtknopje een van de kamers donker te maken, alsof het licht was uitgegaan. Echter door een tip van een van mijn klasgenoten, vond ik het uiteindelijk nog veel leuker om de gehele SVG invert te maken. Dit heeft namelijk een veel groter effect.
 
 ![Mijn kunstwerk invert](/Img/Invert.png)
 
+Toen ik die klik eenmaal voor elkaar had, ben ik verder gegaan me mijn blaadjes. Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het kunstwerk wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. Nu laat ik elk blaadje naar een eigen 'kamer' vliegen, wat mij uiteindelijk op het idee bracht om in plaats van een schrijfmachine in ieder huis, een plantje in ieder huis te doen.
+
 #### De toetsenbord animaties:
 Als laatste ben ik eigenlijk begonnen aan de toetsenbord clickfuncties. Na de laatste les van Danny de Vries, waarin hij naar mijn idee super goed uitlegde hoe je met bepaalde toetsenbord clicks dingen in je kunstwerk kon animeren, ging het toen ik het zelf ging proberen toch net iets minder soepel dan ik had gehoopt. Uiteindelijk denk ik dat ik er bij elkaar opgeteld wel zo’n 4 uur over heb gedaan voordat er eindelijk iets lukte. Gelukkig vind ik het persoonlijk daarna wel gemakkelijk om diezelfde code, om te zetten naar een andere animatie met een andere keycode. Wanneer ik eenmaal één juiste code heb, loopt alles gelukkig weer wat sneller.
-
--	De boot 
--	De cijfers 3, 6 en 9 in de klok 
--	De 3 ‘ramen’ rechts bovenin 
 
 De boot wordt wordt geactiveerd bij het indrukken van je spatieblak (keyCode 32). Hier heb ik een toggle aan gegeven, zodat deze gemakkelijk weer terug komt op zijn plaats. Dit had bijvoorbeeld ook met een andere toets gedaan kunenn worden, echter had ik het idee dat, aangezien ik hiervoor de spatiebalk gebruik, dit wel iets heel natuurlijks is. De spatiebaalk heeft namelijk niet echt een tegenovergestelde toets.
 
