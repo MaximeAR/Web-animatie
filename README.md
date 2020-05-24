@@ -13,7 +13,7 @@ Alhoewel het natuurlijk niet helemaal de bedoeling was, heb ik dit kunstwerk eni
 ## Mijn kunstwerk:
 Mijn uitgekozen kunstwerk is in 1950 door Giovanni Pintori in opdracht van Olivetti gemaakt en gaat over een ouderwetse typmachine genaamd Lettera 22. De Olivetti Lettera 22 is een draagbare mechanische typemachine ontworpen door Marcello Nizzoli in 1949. De typemachine was toen der tijd erg populair in Italië en heeft nog steeds veel fans. De typemachine heeft een afmeting van ongeveer 27x37x8 cm, waardoor hij in die tijd als redelijk draagbaar werd gezien. Hoewel he gewicht van maar liefst 3,7 kg de draagbaarheid enigszins beperkte. 
 
-![Olivetti Lettera 22](/Img/LFA_Pintori_0026_001.jpg)
+![Olivetti Lettera 22](/Img/Mijnkunstwerk.png)
 
 http://oa.letterformarchive.org/item?workID=lfa_pintori_0026&LFAPics=Yes
 
