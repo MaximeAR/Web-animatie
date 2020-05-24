@@ -30,7 +30,18 @@ Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in 
 ## Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
 
-Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen
+Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. 
+
+
+Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
+- Het Rode vlak = De slaapkamer
+- Het lichtgroene vlak = De gang/hal
+- Het blauwe vlak = De studeerkamer
+- Het zwarte vlak  = De tuin
+- Het goude vlak = Deur/ramen
+- Het donkergroene vlak: De woonkamer
+- Het gemixte kleuren vlak = Een schilderij
+
 
 
 ![Mijn kunstwerk](/Img/Eigenversie.png)
