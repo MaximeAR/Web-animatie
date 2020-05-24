@@ -6,7 +6,7 @@ Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface D
 # De opdracht:
 Kies een kunstwerk uit een archief, vertaal deze naar het web en maak hem interactief en responsive. Ik moet gaan nadenken hoe ik mijn kunstwerk wil gaan animeren met behulp van HTML, CSS en Javascript. Wat gebeurt er bijvoorbeeld als mensen met hun muis over bepaalde elementen zweven of als ze op toetsen op hun toetsenbord drukken? Hoe moet het 'statische kunstwerk' zich gedragen op verschillende schermformaten? 
 
-Ik heb mijn kunstwerk uiteindelijk gevonden op de website: https://letterformarchive.org.
+Ik heb mijn kunstwerk uiteindelijk gevonden op de website: https://letterformarchive.org. 
 Alhoewel het natuurlijk niet helemaal de bedoeling was, heb ik dit kunstwerk enigszins met bepaalde criteria in mijn achterhoofd uitgekozen. Zo kon ik zien dat dit kunstwerk in illustrator niet al te moeilijk na te maken zou zijn, maar waarbij ik wel al super veel leuke ideeën qua animatie kon bedenken. 
 
 # Mijn kunstwerk:
@@ -21,9 +21,15 @@ Olivetti is in 1908 nabij Turijn opgericht door Camillo Olivetti als fabriek van
 
 Giovanni Pintori was een Italiaanse grafisch ontwerper die vooral bekend stond om zijn reclamewerk met Olivetti. Hij staat bekend om zijn gebruik van geometrische vormen en minimalistische stijl in zijn reclameposters. Ook mijn uitgekozen kunstwerk is eigenlijk niet meer dan een promotiemiddel met als boodschap dat eigenlijk elk huishouden en Lettera 22 moet hebben.
 
-Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in opdracht voor Olivetti door Giovanni gemaakt. Om een wat completer beeld te geven van Giovanni en zijn manier van werken, heb ik ze hieronder toegevoegd. Twee van onderstaande kunstwerken zijn in het Italiaans en de ander is nogmaals in het Nederlands.
+Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in opdracht voor Olivetti door Giovanni gemaakt. Om een wat completer beeld te geven van Giovanni en zijn manier van werken, heb ik nog 3 kunstwerken hieronder toegevoegd. Twee van onderstaande kunstwerken zijn in het Italiaans en de ander is nogmaals in het Nederlands. Giovanni heeft voor Olivetti Lettera 22 toendertijd wel meer dan tien posters gemaakt.
 
 ![andere kunstwerken](/Img/3kunstwerken.png)
+
+Letterform Archive (z.d.). Olivetti Lettera 22. Geraadpleegd op 10 mei 2020, van http://oa.letterformarchive.org/item?workID=lfa_pintori_0001&LFAPics=Yes
+
+Letterform Archive (z.d.). Olivetti Lettera 22. Geraadpleegd op 10 mei 2020, van
+http://oa.letterformarchive.org/item?workID=lfa_pintori_0025&LFAPics=Yes
+
 
 # Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
