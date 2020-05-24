@@ -27,7 +27,7 @@ Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in 
 ![andere kunstwerken](/Img/3kunstwerken.png)
 
 
-## Mijn eigen visie op het kunstwerk:
+# Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
 
 Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen, echter heb ik met de mobiele versie in mijn achterhoofd uiteindelijk besloten dit niet te doen. 
@@ -49,7 +49,7 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 
 
 
-Functies die ik heb gebruikt:
+# Functies die ik heb gebruikt:
 
 
 
@@ -100,7 +100,7 @@ Hoe zie ik alle animaties op mobiel terug:
 Of hoe had ik dat in gedachte:
 
 
-Conclusie:
+# Conclusie:
 Ik ben over het algemeen tevreden over wat ik uiteindelijk neer heb kunnen zetten. Ik heb in een ruime 3 weken tijd super veel nieuwe dingen geleerd. 
 
 
@@ -113,15 +113,20 @@ Ik ben toen vooral gaan kijken naar de kunstwerken met animaties van mijn klasge
 Hoewel dit ook soms nog vrij lastig was, vond ik het wel heel fijn om code met daarnaast een werkend voorbeeld te zien. Op internet zoeken vond ik dus ook vrij lastig. Dit aangezien ik dus niet specifiek wist wat ik fout deed of niet snapte en er zo veel informatie op internet staat, dat ik soms door de bomen het bos niet meer zag.
 
 
-Eigen beoordeling:
+# Eigen beoordeling:
 
 Als je het hebt over experimenteren, was eigenlijk deze hele opdracht voor mij een experiment. Elke functie die mijn kunstwerk nu op het web heeft was voor mij nieuw. Zelf het online krijgen van mijn gemaakte SVG was een opgave op zich. 
 
  
-Bronnen:
-https://en.wikipedia.org/wiki/Olivetti_Lettera_22
-https://en.wikipedia.org/wiki/Giovanni_Pintori
-https://nl.wikipedia.org/wiki/Olivetti
- 
+# Bronnen:
+Letterform Archive (z.d.). Olivetti Lettera 22. 
+  Geraadpleegd op 7 mei 2020, van http://oa.letterformarchive.org/item?workID=lfa_pintori_0026&LFAPics=Yes
+Wikipedia (2020, 24 april). Olivetti Lettera 22. 
+  Geraadpleegd op 24 mei 2020, van https://en.wikipedia.org/wiki/Olivetti_Lettera_22
+Wikipedia (2019, 7 september). Giovanni Pintori. 
+  Geraadpleegd op 24 mei 2020, van https://en.wikipedia.org/wiki/Giovanni_Pintori
+Wikipedia (2019, 1 december). Olivetti. 
+  Geraadpleegd op 24 mei 2020, van https://nl.wikipedia.org/wiki/Olivetti
+
 
 
