@@ -11,7 +11,7 @@ Alhoewel het natuurlijk niet helemaal de bedoeling was, heb ik dit kunstwerk eni
 
 
 ## Mijn kunstwerk:
-Mijn uitgekozen kunstwerk is in 1950 door Giovanni Pintori in opdracht van Olivetti gemaakt en gaat over een ouderwetse typmachine genaamd Lettera 22. De Olivetti Lettera 22 is een draagbare mechanische typemachine ontworpen door Marcello Nizzoli in 1949. De typemachine was toen der tijd erg populair in Italië en heeft nog steeds veel fans. De typemachine heeft een afmeting van ongeveer 27x37x8 cm, waardoor hij in die tijd als redelijk draagbaar werd gezien. Hoewel he gewicht van maar liefst 3,7 kg de draagbaarheid enigszins beperkte. 
+Mijn uitgekozen kunstwerk is in 1954 door Giovanni Pintori in opdracht van Olivetti gemaakt en gaat over een ouderwetse typmachine genaamd Lettera 22. De Olivetti Lettera 22 is een draagbare mechanische typemachine ontworpen door Marcello Nizzoli in 1949. De typemachine was toen der tijd erg populair in Italië en heeft nog steeds veel fans.
 
 ![Olivetti Lettera 22](/Img/Mijnkunstwerk.png)
 
@@ -30,6 +30,91 @@ Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in 
 ## Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
 
+Mij leek het vanaf begin af aan al een leuk idee om de blaadjes die op het kunstwerk zijn afgebeeld, als het ware te laten wegvliegen wanneer erop geklikt wordt. Nu was er een kort moment dat ik die blaadjes echt helemaal uit het strakke rechthoek wou laten vliegen
 
+
+![Mijn kunstwerk](/Img/Eigenversie.png)
+
+
+
+
+Functies die ik heb gebruikt:
+
+
+Rode vlak (links boven): slaapkamer
+Lichtgroene vlak: gang/hal
+Blauwe vlak: studeerkamer
+Zwarte vlak: tuin
+Goude vlak (rechts boven): ramen
+Donkergroene vlak: woonkamer
+Mix kleuren vlak: schilderij
+
+
+
+Aanpassingen en toevoegingen aan het originele kunstwerk:
+-	Een lichtknop in het lichtgroene vlak.
+-	Een zwarte blak links bovenin zodat de lamp niet in het niets hangt. 
+-	De boot wijst de andere kant op.
+-	Meerdere blaadjes toegevoegd op het zwarte vlak.
+-	De zin “Een schrijfmachine in ieder huis” veranderd naar “Een plantje in ieder huis”.
+-	De zin Olivetti Lettera 22 vervangen voor een extra kamer in het ‘huis’.
+
+
+
+Automatische en oneindige animaties:
+-	De klok
+-	De vis
+
+Mijn hover animaties:
+-	Het lichtknopje
+-	De 3 ‘ramen’ rechts bovenin
+-	De vis
+
+Mijn click animaties:
+-	De blaadjes
+-	Het lichtknopje
+
+
+De toetsenbord animaties:
+-	De boot
+-	De 3, 6 en 9 van de klok
+-	De 3 ‘ramen’ rechts bovenin
+
+Mijn nog niet uitgevoerde ideeën:
+-	De vis die echt uit zijn kom springt daar in de lucht een salto doet en weer in zijn kom belandt.
+-	De lamp die zachtjes heen en weer zou bewegen, alsof er bijvoorbeeld een raam open staat.
+-	Het gebruiken van een dubbele keyCode 
+-	De cijfers 3, 6 en 9 in de klok groter laten worden wanneer er op die toetsen wordt geklikt.
+-	Het constant laten draaien van de wijzers van de klok.
+-	Het verder uitbreiden van het ‘huis’ in de desktopversie.
+
+
+Bovenstaande ideeën zijn helaas niet uitgevoerd, door een combinatie van te weinig kennis en te weinig tijd om deze kennis op te doen. 
+
+
+Hoe zie ik alle animaties op mobiel terug:
+Of hoe had ik dat in gedachte:
+
+
+Conclusie:
+Ik ben over het algemeen tevreden over wat ik uiteindelijk neer heb kunnen zetten. Ik heb in een ruime 3 weken tijd super veel nieuwe dingen geleerd. 
+
+
+Toch denk ik dat ik er met iets meer tijd veel meer uit had kunnen halen. Dat ik al mijn ideeën niet mijn mobiele versie nog bijvoorbeeld nog niet optimaal werkt, vind ik jammer. 
+
+Ik ben mezelf echt tegen gekomen bij mijn manier van werken. Ik heb van tevoren bijvoorbeeld niet concreet opgezocht wat de basis HTML, CSS en Javascript codes zijn en wat de woorden in die code precies betekenen. Dit heeft mij later wel veel tijd gekost. Wanneer ik een nieuwe code had toegevoegd, om daarmee een bepaalde animatie te genereren en dit op dat moment niet werkte. Wist ik niet wat er precies fout was aan de code en dus ook niet hoe ik dit moest oplossen. Daarnaast was alles qua code nieuw voor mij, waardoor ik he heel lastig vond om specifiek te kunnen benoemen wat ik op dat moment niet snapte. Ik snapte namelijk letterlijk niet wat ik niet snapte.
+
+Eigen beoordeling:
+
+Als je het hebt over experimenteren, was eigenlijk deze hele opdracht voor mij een experiment. Elke functie die mijn kunstwerk nu op het web heeft was voor mij nieuw. Zelf het online krijgen van mijn gemaakte SVG was een opgave op zich. 
+
+
+
+ 
+Bronnen:
+https://en.wikipedia.org/wiki/Olivetti_Lettera_22
+https://en.wikipedia.org/wiki/Giovanni_Pintori
+https://nl.wikipedia.org/wiki/Olivetti
+ 
 
 
