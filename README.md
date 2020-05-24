@@ -1,5 +1,5 @@
 # Maxime Alvarez Ruiz VID1
-[Demo van de eindversie]()
+[Eindversie]()
 
 Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface Design. Een blok waar sommige mensen misschien wel zin in hadden, andere mensen juist niet en dan heb je mij. Ik had werkelijk waar geen idee wat ik moest verwachten. HTML, CSS en Javascript, woorden die ik kende maar waar voor mij geen beeld aan vast zat. Wat gaat dit worden, gaan de thuislessen genoeg voor mij zijn?
 
@@ -8,7 +8,6 @@ Kies een kunstwerk uit een archief, vertaal deze naar het web en maak hem intera
 
 Ik heb mijn kunstwerk uiteindelijk gevonden op de website: https://letterformarchive.org.
 Alhoewel het natuurlijk niet helemaal de bedoeling was, heb ik dit kunstwerk enigszins met bepaalde criteria in mijn achterhoofd uitgekozen. Zo kon ik zien dat dit kunstwerk in illustrator niet al te moeilijk na te maken zou zijn, maar waarbij ik wel al super veel leuke ideeën qua animatie kon bedenken. 
-
 
 # Mijn kunstwerk:
 Mijn uitgekozen kunstwerk is in 1954 door Giovanni Pintori in opdracht van Olivetti gemaakt en gaat over een ouderwetse typmachine genaamd Lettera 22. De Olivetti Lettera 22 is een draagbare mechanische typemachine ontworpen door Marcello Nizzoli in 1949. De typemachine was toen der tijd erg populair in Italië en heeft nog steeds veel fans.
@@ -25,7 +24,6 @@ Giovanni Pintori was een Italiaanse grafisch ontwerper die vooral bekend stond o
 Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in opdracht voor Olivetti door Giovanni gemaakt. Om een wat completer beeld te geven van Giovanni en zijn manier van werken, heb ik ze hieronder toegevoegd. Twee van onderstaande kunstwerken zijn in het Italiaans en de ander is nogmaals in het Nederlands.
 
 ![andere kunstwerken](/Img/3kunstwerken.png)
-
 
 # Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
@@ -60,40 +58,16 @@ Het kunstwerk kun je al het ware indelen in allerlei verschillende kamers:
 - Het donkergroene vlak: De woonkamer
 - Het gemixte kleuren vlak = Een schilderij
 
-
 # Functies:
 Om het kunstwerk bij openen niet zo statisch te maken, heb ik ervoor gekozen om al een paar elementen uit het kunstwerk te laten bewegen. Hiermee weten de kijkers/gebruikers hopelijk ook gelijk dat het niet zomaar een afbeelding is maar dat je er daadwerkelijk zelf dingen mee kan doen. 
 
 De elementen die al bewegen staan in de CSS op oneindig. Dit betreft de klok en het visje.
 
-#### Hover animaties:
--	Het lichtknopje
--	De 3 ‘ramen’ rechts bovenin
--	De vis
-
-#### Click animaties:
--	De blaadjes
--	Het lichtknopje
-
-Ook het klikbaar maken van een SVG met behulp van CSS en Javascript was voor mij nog geheel onbekend. Uiteindelijk heb ik zo'n 2,5 uur over mijn eerst click gedaan.
-
-![Mijn kunstwerk invert](/Img/Invert.png)
-
-#### De toetsenbord animaties:
--	De boot 
--	De cijfers 3, 6 en 9 in de klok 
--	De 3 ‘ramen’ rechts bovenin 
-
-De boot wordt wordt geactiveerd bij het indrukken van je spatieblak (keyCode 32). Hier heb ik een toggle aan gegeven, zodat deze gemakkelijk weer terug komt op zijn plaats. Dit had bijvoorbeeld ook met een andere toets gedaan kunenn worden, echter had ik het idee dat, aangezien ik hiervoor de spatiebalk gebruik, dit wel iets heel natuurlijks is. De spatiebaalk heeft namelijk niet echt een tegenovergestelde toets.
-
-De 3 wordt logischerwijs geactiveerd bij het indrukken van de nummer 3 (keyCode 51), de 6 bij het indrukken van de nummer 6 (keyCode 54) en de 9 bij het indrukken van de nummer 9 (keyCode 57). De nummer 12 heb ik hierbij helaas weg moeten laten omdat Danny de Vries in een college aangaf dat de code bij het indrukken van twee toetsen wel erg moeilijk wordt voor deze opdracht. Eventueel iets om mee te experimenteren bij een eventuele volgende opdracht.
-
-Alle 3 de blokjes worden tegelijk aaangesproken. Deze gaan naar links door de ArrowLeft op je toetsenbord aan te klikken, naar boven door de ArrowUp aan te klikken en naar benden door natuurlijk de ArrowDown aan te klikken.
 
 # Psuedo-classes:
-Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. Maar ook de 'ramen' rechts bovenin het goude vlakje, hebben een fill :hover gekregen. Ik heb dit met een doordachte reden gedaan, dit omdat de lijntjes van zichzelf niet heel duidelijk te zien zijn en door er een hover bij te maken wordt dit beter. 
+Ik heb uiteindelijk 1 psuedo-class in mijn animatie gebruikt, namelijk de :hover. Ik heb deze allereerst gebruikt in het lichtknopje, om zo voor de gebruikers duidelijk te maken dat je hierop kan klikken. Maar ook de 'ramen' rechts bovenin het goude vlakje, hebben een fill :hover gekregen. Ik heb dit met een duidelijke reden gedaan, omdat de lijntjes van zichzelf niet heel duidelijk te zien zijn en ik ze door er een hover bij te maken zichtbaarder wou maken. 
 
-Als laastste hebben de vis en de klok nog een hover functie gekregen, eigenlijk omdat ik mijn eerste ideeën bij beide niet voormekaar kreeg en ik toch wat leuks wou doen. De vis maakt als het ware een salto in zijn kom en de klok draait een rondje.
+Als laastste hebben de vis en de klok nog een hover functie gekregen. Dit eigenlijk omdat ik mijn eerste ideeën bij beide helaas niet kon realiseren en ik toch nog wat leuks wou doen met deze elementen. De vis maakt als het ware een salto in zijn kom en de klok draait een rondje.
 
 Ik heb mij wel nog ingelezen in de volgende psuedo-classes:
 - :active,
@@ -104,12 +78,26 @@ Ik heb mij wel nog ingelezen in de volgende psuedo-classes:
 
 Ik moet hiebrij eerlijk toegeven dat ik gewoonweg geen tijd meer had om deze psuedo-classes ook echt daadwerkelijk in mijn kunstwerk terug te laten komen. De, voor de wat gevorderde codeur, standaard css codes waren voor mij al nieuw, waardoor dit veel tijd koste.  
 
+#### Click animaties:
+-	De blaadjes
+-	Het lichtknopje
 
-# Keyboard animaties:
+Ook het klikbaar maken van een SVG met behulp van CSS en Javascript was voor mij nog geheel onbekend. Uiteindelijk heb ik zo'n 2,5 uur over mijn eerst click gedaan.
 
+![Mijn kunstwerk invert](/Img/Invert.png)
+
+#### De toetsenbord animaties:
 Als laatste ben ik eigenlijk begonnen aan de toetsenbord clickfuncties. Na de laatste les van Danny de Vries, waarin hij naar mijn idee super goed uitlegde hoe je met bepaalde toetsenbord clicks dingen in je kunstwerk kon animeren, ging het toen ik het zelf ging proberen toch net iets minder soepel dan ik had gehoopt. Uiteindelijk denk ik dat ik er bij elkaar opgeteld wel zo’n 4 uur over heb gedaan voordat er eindelijk iets lukte. Gelukkig vind ik het persoonlijk daarna wel gemakkelijk om diezelfde code, om te zetten naar een andere animatie met een andere keycode. Wanneer ik eenmaal één juiste code heb, loopt alles gelukkig weer wat sneller.
 
+-	De boot 
+-	De cijfers 3, 6 en 9 in de klok 
+-	De 3 ‘ramen’ rechts bovenin 
 
+De boot wordt wordt geactiveerd bij het indrukken van je spatieblak (keyCode 32). Hier heb ik een toggle aan gegeven, zodat deze gemakkelijk weer terug komt op zijn plaats. Dit had bijvoorbeeld ook met een andere toets gedaan kunenn worden, echter had ik het idee dat, aangezien ik hiervoor de spatiebalk gebruik, dit wel iets heel natuurlijks is. De spatiebaalk heeft namelijk niet echt een tegenovergestelde toets.
+
+De 3 wordt logischerwijs geactiveerd bij het indrukken van de nummer 3 (keyCode 51), de 6 bij het indrukken van de nummer 6 (keyCode 54) en de 9 bij het indrukken van de nummer 9 (keyCode 57). De nummer 12 heb ik hierbij helaas weg moeten laten omdat Danny de Vries in een college aangaf dat de code bij het indrukken van twee toetsen wel erg moeilijk wordt voor deze opdracht. Eventueel iets om mee te experimenteren bij een eventuele volgende opdracht.
+
+Alle 3 de blokjes worden tegelijk aaangesproken. Deze gaan naar links door de ArrowLeft op je toetsenbord aan te klikken, naar boven door de ArrowUp aan te klikken en naar benden door natuurlijk de ArrowDown aan te klikken.
 
 # Javascript:
 
