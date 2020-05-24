@@ -33,3 +33,8 @@ https://designarchives.aiga.org/#/entries/%2Bcollections%3A%22California%20Graph
 
 ## Mijn eigen visie op het kunstwerk:
 Na deze gehele geschiedenis van zowel heet kunstwerk zelf, als de opdrachtgever en de maker te hebben uitgezocht, ben ik tot een bepaalde conclusie gekomen. Wanneer het kunstwerk op zichzelf staat en hier geen verdere uitleg bij gegeven wordt, zie je als kijker overduidelijk een huis met verschillende kamers en huishoudelijke artikelen. Echter valt de typemachine niet heel erg op. Daarnaast wist ik niet zo goed, wat voor animaties ik met de typemachine zou moeten doen en heb toen besloten het verhaal achter het kunstwerk aan te passen en mijn eigen visie hierop te geven. 
+
+
+
+
+![Het contrast](/Img/LFA_Pintori_0026_001.jpg)
