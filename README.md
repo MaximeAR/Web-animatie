@@ -19,7 +19,7 @@ http://oa.letterformarchive.org/item?workID=lfa_pintori_0026&LFAPics=Yes
 Olivetti is een Italiaanse fabriek van computers, printers en andere kantoormachines.
 Olivetti is in 1908 nabij Turijn opgericht door Camillo Olivetti als fabriek van schrijfmachines. Het bedrijf ontwikkelde zich voornamelijk onder zijn zoon Adriano Olivetti, die ook beroemd is geworden wegens het ontwikkelen van een nieuw managementsysteem. De eerste overzeese vestiging werd in 1930 geopend. 
 
-Giovanni Pintori was een Italiaanse grafisch ontwerper die vooral bekend stond om zijn reclamewerk met Olivetti. Hij staat bekend om zijn gebruik van geometrische vormen en minimalistische stijl in zijn reclameposters. Ook mijn uitgekozen kunstwerk is eigenlijk niet meer dan een promotiemiddel met als boodschap dat eigenlijk elk huishouden en Lettera 22 moet hebben.
+Giovanni Pintori was een Italiaanse grafisch ontwerper die vooral bekend stond om zijn reclamewerk met Olivetti. Hij staat bekend om zijn gebruik van geometrische vormen en minimalistische stijl in zijn reclameposters. Ook mijn uitgekozen kunstwerk is eigenlijk niet meer dan een promotiemiddel, met als boodschap dat eigenlijk elk huishouden en Lettera 22 moet hebben.
 
 Naast mijn uitgekozen kunstwerk, zijn er nog een aantal andere reclameposter in opdracht voor Olivetti door Giovanni gemaakt. Om een wat completer beeld te geven van Giovanni en zijn manier van werken, heb ik nog 3 kunstwerken hieronder toegevoegd. Twee van onderstaande kunstwerken zijn in het Italiaans en de ander is nogmaals in het Nederlands. Giovanni heeft voor Olivetti Lettera 22 toendertijd wel meer dan tien posters gemaakt.
 
