@@ -107,7 +107,7 @@ Om mijn click animaties en mijn toetsenbord animaties ook daadwerkelijk te laten
 
 ![code click](/Img/click.png)
 
-Mijn toetsenbord animaties heb ik met Javascript gemaakt met behulp van de even.keyCode. Hierbij zoek je op internet de bij je uigekozen toets behorende code en geeft aan wat je SVG moet doen wanneer deze wordt aangeklikt.
+Mijn toetsenbord animaties heb ik met Javascript gemaakt met behulp van de event.keyCode. Hierbij zoek je op internet de bij je uigekozen toets behorende code en geeft aan wat je SVG moet doen wanneer deze wordt aangeklikt.
 
 ![code toetsenbord](/Img/toetsenbord.png)
 
